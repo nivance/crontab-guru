@@ -1,5 +1,5 @@
 const exampleLinks = [
-    { href: '/every-minute', title: 'every 1 minute', href1: '/every-1-min', title1: 'every 1 minute' },
+    { href: '/every-1-minute', title: 'every minute', href1: '/every-1-minute', title1: 'every 1 minute' },
     { href: '/every-2-minutes', title: 'every 2 minutes', href1: '/every-3-minutes', title1: 'every 3 minutes' },
     { href: '/every-5-minutes', title: 'every 5 minutes', href1: '/every-10-minutes', title1: 'every 10 minutes' },
     { href: '/every-15-minutes', title: 'every 15 minutes', href1: '/every-30-minutes', title1: 'every 30 minutes' },
